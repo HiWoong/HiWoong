@@ -4,7 +4,7 @@
 
 # Back-end Developer 
 ### 🙌To Meet Me
-<a href="https://holy-mastodon-28b.notion.site/5b54cd12b06b4a34ab90c43f821e3dd7"><img src="https://img.shields.io/badge/Notion-7CFC00?style=flat-square&logo=Notion&logoColor=black&link=https://holy-mastodon-28b.notion.site/5b54cd12b06b4a34ab90c43f821e3dd7"/></a> 
+<a href="https://upbeat-actress-7f7.notion.site/b4c1ef0d77de4b3aa14e010b611e8c2e"><img src="https://img.shields.io/badge/Notion-7CFC00?style=flat-square&logo=Notion&logoColor=black&link=https://holy-mastodon-28b.notion.site/5b54cd12b06b4a34ab90c43f821e3dd7"/></a> 
 <a href="mailto:gmldnd666@gmail.com"><img src="https://img.shields.io/badge/Email-EEE8AA?style=flat-square&logo=Gmail&logoColor=black&link=mailto:gmldnd666@gmail.com"/></a>
 <a href="https://velog.io/@woong12"><img src="https://img.shields.io/badge/Velog-EEE8AA?style=flat-square&logo=Velog&logoColor=black&link=mailto:https://velog.io/@woong12"/></a>
 
