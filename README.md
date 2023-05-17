@@ -10,6 +10,7 @@
 
 ### 📚Stacks
 <img src="https://img.shields.io/badge/Java-4169E1?style=flat-square&logo=OpenJDK&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-808000?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-C71585?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Arduino-778899?style=flat-square&logo=Arduino&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Raspberry Pi-B22222?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a>
@@ -24,7 +25,6 @@
 <img src="https://img.shields.io/badge/Spring-00008B?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3CB371?style=flat-square&logo=Python&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/JavaScript-808000?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AWS-DB7093?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/HTML-4B0082?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-006400?style=flat-square&logo=CSS3&logoColor=white"/></a>
